@@ -15,7 +15,7 @@ basic technologies:
 Additionally:
 - working with maps and navigation
 - API
-- native Dbase
+- nativeBase
 - expo
 
 If you want to criticize or give advice on my code - please do it in a telegram @thebestpl
