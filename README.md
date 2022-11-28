@@ -3,8 +3,8 @@
 Student programmer. 
 I develop mobile applications on react native.
 
-- Main language: javascript
-- additional languages: typescript, python
+- Main language: typescript, javascript
+- additional languages: python
 
 basic technologies:
 - react
