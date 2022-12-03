@@ -1,21 +1,24 @@
-<Image src='https://www.codewars.com/users/SokolovDenisRu/badges/large' />
+Студент IT направления. Работаю мобильным разработчиком на react native.
 
-Student programmer. 
-I develop mobile applications on react native.
+Основные языки на которых я работаю - это TypeScript, JavaScript
+Языки которые я дополнительно использую в разработках - Python, Swift
 
-- Main language: typescript, javascript
-- additional languages: python, swift
+Основные технологии которые я использую
 
-basic technologies:
-- react
 - react native
-- redux
+- react navigation
+- react redux 
+- firebase
+- RN CLI, Expo CLI
 
+Работал с
+- api
+- yandex map, google map
+- reanimated 2
+- push notification
 
-Additionally:
-- working with maps and navigation
-- API
-- nativeBase
-- expo
+Контактные данные
+email - sokolovdenisru@gmail.com
+telegram - @thebestpl
 
-If you want to criticize or give advice on my code - please do it in a telegram @thebestpl
+<Image src='https://www.codewars.com/users/SokolovDenisRu/badges/large' />
